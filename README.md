@@ -1,0 +1,1 @@
+Little php script to send SMS using Freemobile api.
